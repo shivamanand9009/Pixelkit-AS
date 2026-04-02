@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+ 
+# Build output
+dist/
+dist-ssr/
+build/
