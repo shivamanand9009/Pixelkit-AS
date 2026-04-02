@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://shivamanand9009.github.io/pixelkit",
+  "homepage": "https://shivamanand9009.github.io/Pixelkit-AS",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
